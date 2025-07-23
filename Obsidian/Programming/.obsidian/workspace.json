@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "301bcda39bcb2368",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b23826dac0d8a90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d83d811cfb240ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Services/What is it.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is it"
+            }
+          },
+          {
+            "id": "ac16607d404a2242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programing Concepts/Serialization, Deserialization, Typeof.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Serialization, Deserialization, Typeof"
+            }
+          },
+          {
+            "id": "601305d5bf67e98b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/Windows Services/Windows Service Vs Worker Service.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows Service Vs Worker Service"
+            }
+          },
+          {
+            "id": "9ab57f9c434fc34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5ab9eb27de3cfbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2632f299fddb7ce2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d85907476154af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b37dbc4342ac179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "depend",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "efe2941f88182dee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "beceaa72f22c1c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e02f738e35ddc81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b2f748b7fc51a61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git"
+            }
+          },
+          {
+            "id": "91d91ff63b61f70c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8a96d2b4a1567da4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2af01f9e8e835206",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SQL/Edge Cases.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Edge Cases"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ab57f9c434fc34e",
+  "lastOpenFiles": [
+    "C#/Windows Services/Windows Service Vs Worker Service.md",
+    "Git.md",
+    "Programing Concepts/Technical Concepts.md",
+    "Concepts.md",
+    "Pasted image 20250723073356.png",
+    "C#/Windows Services/Example.md",
+    "C#/Windows Services/What is it.md",
+    "C#/Framework/ADO.NET.md",
+    "C#/Windows/App.config.md",
+    "SQL/Account & Access.md",
+    "SQL/TSQL/Stored Procedure.md",
+    "SQL/SQL Stored Procedure.md",
+    "C#/Windows/Windows Registry.md",
+    "C#/Windows/Event Log.md",
+    "[How.md",
+    "Pasted image 20250721090239.png",
+    "English/Words.md",
+    "English",
+    "Pasted image 20250720164434.png",
+    "Pasted image 20250720164432.png",
+    "Pasted image 20250720164424.png",
+    "Pasted image 20250720144519.png",
+    "C#/Lambda Expression.md",
+    "Pasted image 20250717111546.png",
+    "C#/LINQ.md",
+    "C#/Reflection.md",
+    "C#/Special Comments.md",
+    "C#/Delegate.md",
+    "C#/Events.md",
+    "C#/Events and Delegates.md",
+    "C#/User Control Event.md",
+    "Programing Concepts/C#/User Control Event.md",
+    "Programing Concepts/C#/Delegate.md",
+    "Programing Concepts/C#/Events.md",
+    "C#/Directory & Path",
+    "Extension",
+    "C#/Windows Services",
+    "C#/Windows Services",
+    "Pasted image 20250706123116.png",
+    "SQL/TSQL/Untitled",
+    "SQL/TSQL/Transaction",
+    "Pasted image 20250606080257.png",
+    "Pasted image 20250530095644.png",
+    "SQL/TSQL",
+    "C#/Framework",
+    "C#/ADO.Net",
+    "Untitled.canvas",
+    "Programing Concepts/Object Oriented Programing/Untitled.canvas"
+  ]
+}
